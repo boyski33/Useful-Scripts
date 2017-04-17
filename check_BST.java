@@ -1,5 +1,5 @@
     //traverse the tree inorderly, put the integers in a list, and check if it's sorted ascendingly
-    //(with no repeating values, by difinition of a Binary Search Tree)
+    //(with no repeating values, by definition of a Binary Search Tree)
     
     ArrayList<Integer> nums = new ArrayList<Integer>();
 
